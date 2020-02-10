@@ -12,6 +12,10 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.1
+### ⚡️ Updates
+- 39cd3d6 section 21 is final, optimized sec 22, RM sec 20 /squash
+
 ## 0.2.0
 ### ⚡️ Updates
 - 9fbaa52 part 22 is stable
