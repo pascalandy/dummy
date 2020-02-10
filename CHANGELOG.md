@@ -12,6 +12,18 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.8
+### ⚡️ Updates
+- 3a7d807 Update dummy to version 0.2.8
+- 83f4007 Update dummy to version 0.2.7
+- fb40e66 Merge branch 'master' of github.com:pascalandy/dummy
+- db2b909 update our Dockerfile
+- ce25e62 update our Dockerfile
+- c98a3ae init sect 26, update sect 23 /squashed
+- 9eda8fb update sect 23
+- 4ac0071 FIX typo
+- c4d7f71 init sect 26
+
 ## 0.2.6
 ### ⚡️ Updates
 - de23d81 remove sect 22, fix typo sect 23 /squashed
