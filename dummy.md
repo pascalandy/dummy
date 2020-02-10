@@ -12,7 +12,7 @@ The details are not the details. They make the fucking design. Never, never assu
 
 Intuition is fucking important. Never, never assume that what you have achieved is fucking good enough. The details are not the details. They make the fucking design. When you design, you have to draw on your own fucking life experiences. If it’s not something you would want to read/look at/use then why fucking bother?
 
-Think about all the fucking possibilities. Never let your guard down by thinking you’re fucking good enough. Don’t worry about what other people fucking think.
+Think about all the fucking possibilities. Never let your guard down by thinking you’re fucking good enough. Don’t worry about what other people fucking think!
 
 Nothing of value comes to you without fucking working at it. To go partway is easy, but mastering anything requires hard fucking work. You are not your fucking work. You are not your fucking work. Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography. Don’t worry about what other people fucking think. Someday is not a fucking day of the week.
 
