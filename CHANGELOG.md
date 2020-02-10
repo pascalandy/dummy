@@ -12,6 +12,10 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.12
+### ⚡️ Updates
+- eb68de9 Update dummy to version 0.2.12 /squashed
+
 ## 0.2.11
 ### ⚡️ Updates
 - 114a8fc Update dummy to version 0.2.11 /squashed
