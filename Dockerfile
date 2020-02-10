@@ -1,7 +1,7 @@
 ###################################
 # REQUIRED BY OUR GITHUB ACTION CI
 ###################################
-ARG VERSION="0.2.2"
+ARG VERSION="0.2.3"
 ARG APP_NAME="dummy"
 ARG GIT_PROJECT_NAME="dummy"
 
