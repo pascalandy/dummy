@@ -2,9 +2,7 @@
 
 Of that continues to link the article anonymously modern art freud inferred. Eventually primitive brothel scene with a distinction. The Enlightenment criticized from the history.
 
-Think about all the fucking possibilities. Never let your guard down by thinking you’re fucking good enough. Don’t worry about what other people fucking think!
-
-Nothing of value comes to you without fucking working at it. To go partway is easy, but mastering anything requires hard fucking work. You are not your fucking work. You are not your fucking work.
+Nothing of value comes to you without fucking working at it. Mastering anything requires hard fucking work. You are not your fucking work. You are not your fucking work.
 
 ## section 23
 
@@ -15,3 +13,10 @@ Of that continues to link the article anonymously modern art freud inferred. Eve
 ## section 24
 
 This text is used as a placeholder. Words that will follow. Eventually primitive brothel scene with a distinction. The Enlightenment criticized from the history.
+
+
+## section 25
+
+Think about all the fucking possibilities. Never let your guard down by thinking you’re fucking good enough. Don’t worry about what other people fucking think!
+
+Nothing of value comes to you without fucking working at it. To go partway is easy, but mastering anything requires hard fucking work. You are not your fucking work. You are not your fucking work.
