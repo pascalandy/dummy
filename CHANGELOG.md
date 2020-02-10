@@ -12,6 +12,10 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.4
+### ⚡️ Updates
+- e890ba9 update section 22 AND remove section 21 /squash
+
 ## 0.2.3
 ### ⚡️ Updates
 - 97d4a8e fix typo
