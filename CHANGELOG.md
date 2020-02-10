@@ -12,6 +12,11 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.6
+### ⚡️ Updates
+- de23d81 remove sect 22, fix typo sect 23 /squashed
+- 5866e38 init sect 25, update sect 22 /squashed
+
 ## 0.2.5
 ### ⚡️ Updates
 - 61952e7 update sect 22 AND init sect 24 /squash
