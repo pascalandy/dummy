@@ -12,6 +12,10 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.10
+### ⚡️ Updates
+- 6cc4cdb Update dummy to version 0.2.10
+
 ## 0.2.9
 ### ⚡️ Updates
 - bb3bd12 Update dummy to version 0.2.9
