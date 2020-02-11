@@ -12,6 +12,9 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.17
+### ⚡️ Updates
+
 ## 0.2.15
 ### ⚡️ Updates
 - ISSUE is still there
