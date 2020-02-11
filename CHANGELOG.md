@@ -12,6 +12,18 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.22
+### ⚡️ Updates
+- [ca0f178](https://github.com/pascalandy/dummy/commit/ca0f178) Update dummy to version 0.2.22
+- [cbbd742](https://github.com/pascalandy/dummy/commit/cbbd742) Bug with sed or var
+- [379a12b](https://github.com/pascalandy/dummy/commit/379a12b) Bug with sed or var
+- [7d30e68](https://github.com/pascalandy/dummy/commit/7d30e68) Bug with sed or var
+- [d2b7bb7](https://github.com/pascalandy/dummy/commit/d2b7bb7) Update dummy to version 0.2.18 /squashed
+- [82be9dd](https://github.com/pascalandy/dummy/commit/82be9dd) issue in changelog
+- [b49b8b6](https://github.com/pascalandy/dummy/commit/b49b8b6) Update dummy to version 0.2.17
+- [fd67728](https://github.com/pascalandy/dummy/commit/fd67728) issue in changelog
+- [a78b667](https://github.com/pascalandy/dummy/commit/a78b667) Update dummy to version 0.2.16
+
 ## 0.2.18
 ### ⚡️ Updates
 
