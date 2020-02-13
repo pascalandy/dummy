@@ -12,6 +12,10 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.29
+### ⚡️ Updates
+- [e135f50](https://github.com/pascalandy/dummy/commit/e135f50) init chapter 27, remove chap 23
+
 ## 0.2.28
 ### ⚡️ Updates
 - [09aca68](https://github.com/pascalandy/dummy/commit/09aca68) Update dummy to version 0.2.28
