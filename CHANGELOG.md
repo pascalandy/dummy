@@ -12,6 +12,11 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.31
+### ⚡️ Updates
+- [b4455c0](https://github.com/pascalandy/dummy/commit/b4455c0) Update dummy to version 0.2.31
+- [4b26f12](https://github.com/pascalandy/dummy/commit/4b26f12) Init chap 28
+
 ## 0.2.30
 ### ⚡️ Updates
 - [22eb228](https://github.com/pascalandy/dummy/commit/22eb228) UPDATE chap 27, REMOVE chap 24
