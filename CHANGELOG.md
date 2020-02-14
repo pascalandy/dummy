@@ -12,6 +12,10 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.33
+### ⚡️ Updates
+- [bc745e3](https://github.com/pascalandy/dummy/commit/bc745e3) ADD: chapt 30, REMOVE chap 26
+
 ## 0.2.32
 ### ⚡️ Updates
 - [4b61c78](https://github.com/pascalandy/dummy/commit/4b61c78) ADD: chap 29, UPDATE: chap 28, REMOVE: chap 25
