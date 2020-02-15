@@ -12,6 +12,11 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.37 (2020-02-15)
+### ⚡️ Updates
+- [92a887d](https://github.com/pascalandy/dummy/commit/92a887d) Update dummy to version m-ns
+- [efeada1](https://github.com/pascalandy/dummy/commit/efeada1) REMOVE chap 27
+
 ## m (2020-02-15)
 ### ⚡️ Updates
 - [62bd4c4](https://github.com/pascalandy/dummy/commit/62bd4c4) test
