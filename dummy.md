@@ -1,7 +1,3 @@
-## Chapter 27
-
-At the moment, the goal is to build a structure for our site. Don’t worry about what other people fucking think!
-
 ## Chapter 28
 
 The goal is to build a structure for our site. Don’t worry about what other people fucking think :-p
