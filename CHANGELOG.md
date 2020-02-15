@@ -12,6 +12,11 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.43 (2020-02-15)
+### ⚡️ Updates
+- [ab9f14f](https://github.com/pascalandy/dummy/commit/ab9f14f) Update dummy to version 0.2.43
+- [4275f89](https://github.com/pascalandy/dummy/commit/4275f89) dummy update
+
 ## 0.2.42 (2020-02-15)
 ### ⚡️ Updates
 - [17ebbb8](https://github.com/pascalandy/dummy/commit/17ebbb8) Update dummy to version 0.2.42
