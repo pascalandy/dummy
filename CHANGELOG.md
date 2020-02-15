@@ -12,8 +12,15 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.35 (2020-02-15)
+### ⚡️ Updates
+- [13947e0](https://github.com/pascalandy/dummy/commit/13947e0) Update dummy to version 0.2.35
+- [11099d1](https://github.com/pascalandy/dummy/commit/11099d1) fake commit
+- [9b5ab20](https://github.com/pascalandy/dummy/commit/9b5ab20) Update dummy to version 0.2.34
+- [21f030e](https://github.com/pascalandy/dummy/commit/21f030e) ADD videos reference to README
+
 ## 0.2.34
-### ⚡️ Updates 2020-02-15
+### ⚡️ Updates
 - [9b5ab20](https://github.com/pascalandy/dummy/commit/9b5ab20) Update dummy to version 0.2.34
 - [21f030e](https://github.com/pascalandy/dummy/commit/21f030e) ADD videos reference to README
 
