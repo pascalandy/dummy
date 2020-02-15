@@ -12,4 +12,6 @@ Nothing of value comes to you without fucking working at it. To go partway is ea
 
 ## Chapter 33
 
-Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography!
+Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography! Someday is not a fucking day of the week.This text is used as a placeholder. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure.
+
+
