@@ -12,4 +12,4 @@ Nothing of value comes to you without fucking working at it. To go partway is ea
 
 ## Chapter 33
 
-Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography.
+Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography!
