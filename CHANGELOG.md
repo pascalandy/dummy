@@ -12,6 +12,11 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.39 (2020-02-15)
+### ⚡️ Updates
+- [c35825f](https://github.com/pascalandy/dummy/commit/c35825f) Update dummy to version m-ns
+- [617b08d](https://github.com/pascalandy/dummy/commit/617b08d) ADD: chap 32
+
 ## 0.2.38 (2020-02-15)
 ### ⚡️ Updates
 - [78bf128](https://github.com/pascalandy/dummy/commit/78bf128) Update dummy to version m-ns
