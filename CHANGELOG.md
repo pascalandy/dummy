@@ -12,6 +12,13 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.51 (2020-02-15)
+### ⚡️ Updates
+- [00382d6](https://github.com/pascalandy/dummy/commit/00382d6) Update dummy to version 0.2.51 /Dockerfile
+- [a5cb10f](https://github.com/pascalandy/dummy/commit/a5cb10f) UPDATE: chap 33
+- [5c0504b](https://github.com/pascalandy/dummy/commit/5c0504b) Update dummy to version 0.2.50 /Dockerfile
+- [0d9d2cc](https://github.com/pascalandy/dummy/commit/0d9d2cc) UPDATE: chap 32
+
 ## 0.2.49 (2020-02-15)
 ### ⚡️ Updates
 - [6fce84b](https://github.com/pascalandy/dummy/commit/6fce84b) Update dummy to version m- /Dockerfile
