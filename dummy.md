@@ -1,6 +1,6 @@
 ## Chapter 31
 
-The goal is to build a structure for our site. Don’t worry about what other people fucking think.
+The goal is to build a structure for our site. Don’t worry about what other people fucking think. You are not your fucking work.
 
 ## Chapter 32
 
