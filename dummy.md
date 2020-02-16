@@ -1,6 +1,6 @@
 ## Chapter 32
 
-Nothing of value comes to you without fucking working at it. To go partway is easy, but mastering anything requires hard fucking work. You are not your fucking work. You are not your fucking work. Widows and orphans are terrible fucking!!!
+Nothing of value comes to you without fucking working at it. To go partway is easy, but mastering anything requires hard fucking work. You are not your fucking work. You are not your fucking work.
 
 ## Chapter 33
 
