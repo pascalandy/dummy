@@ -8,7 +8,7 @@ Widows and orphans are terrible fucking tragedies, both in real life and definit
 
 ## Chapter 36
 
-Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography!
+Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography.
 
 ## Chapter 37
 
