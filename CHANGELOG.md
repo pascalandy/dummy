@@ -14,7 +14,6 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 ## 0.2.56 (2020-02-15)
 ### ⚡️ Updates
-- [8a3ed31](https://github.com/pascalandy/dummy/commit/8a3ed31) 0.2.56
 - [3a3ce8d](https://github.com/pascalandy/dummy/commit/3a3ce8d) UPDATE chap 32 + FIX typo @ chap 35
 - [beb925c](https://github.com/pascalandy/dummy/commit/beb925c) IMPROV changelog formatting
 
