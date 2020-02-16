@@ -12,6 +12,10 @@ Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6
 
 # Releases
 
+## 0.2.57 (2020-02-15)
+### ⚡️ Updates
+- [d77581e](https://github.com/pascalandy/dummy/commit/d77581e) REMOVE chap 33 + ADD chap 37
+
 ## 0.2.56 (2020-02-15)
 ### ⚡️ Updates
 - [3a3ce8d](https://github.com/pascalandy/dummy/commit/3a3ce8d) UPDATE chap 32 + FIX typo @ chap 35
