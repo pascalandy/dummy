@@ -7,6 +7,13 @@ Status template:
 
 # Releases
 
+## 0.2.64 (2020-02-17)
+### ⚡️ Updates
+- [72ab364](https://github.com/pascalandy/dummy/commit/72ab364) ADD chap 41
+
+### 🔍 Compare
+Compare differences [between version 0.2.62 & 0.2.64](https://github.com/pascalandy/dummy/compare/0.2.62...0.2.64)
+
 ## 0.2.63 (2020-02-17)
 ### ⚡️ Updates
 - [92d7e34](https://github.com/pascalandy/dummy/commit/92d7e34) update to 0.2.63
