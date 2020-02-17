@@ -12,7 +12,7 @@ Status template:
 - [72ab364](https://github.com/pascalandy/dummy/commit/72ab364) ADD chap 41
 
 ### 🔍 Compare
-Compare differences [between version 0.2.62 & 0.2.64](https://github.com/pascalandy/dummy/compare/0.2.62...0.2.64)
+Compare differences [between version 0.2.63 & 0.2.64](https://github.com/pascalandy/dummy/compare/0.2.62...0.2.64)
 
 ## 0.2.63 (2020-02-17)
 ### ⚡️ Updates
