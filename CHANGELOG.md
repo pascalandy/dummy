@@ -12,6 +12,14 @@ Based on this [template](https://github.com/firepress-org/bashlava/blob/master/a
 
 # Releases
 
+## 0.2.58 (2020-02-16)
+### ⚡️ Updates
+- [8aefbd8](https://github.com/pascalandy/dummy/commit/8aefbd8) init chap 39
+- [1403adf](https://github.com/pascalandy/dummy/commit/1403adf) UPDATE changelog template
+- [30d660e](https://github.com/pascalandy/dummy/commit/30d660e) Update dummy to version 0.2.58 /Dockerfile
+- [8daf51a](https://github.com/pascalandy/dummy/commit/8daf51a) ADD chap 38
+- [e3dc7e1](https://github.com/pascalandy/dummy/commit/e3dc7e1) FIX typo
+
 ## 0.2.57 (2020-02-15)
 ### ⚡️ Updates
 - [d77581e](https://github.com/pascalandy/dummy/commit/d77581e) REMOVE chap 33 + ADD chap 37
