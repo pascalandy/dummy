@@ -1,23 +1,20 @@
-### About this CHANGELOG
+This changelog is based on this [template](https://github.com/firepress-org/bashlava/blob/master/add-on/templates.sh#L3). That's the way we release our code at FirePress ([blog post](https://firepress.org/en/software-and-ghost-updates/)). It's based on [keep a changelog](https://keepachangelog.com/en/1.0.0/) and it adheres to [semantic versioning](https://semver.org/spec/v2.0.0.html).
 
-Based on this [template](https://github.com/firepress-org/bashlava/blob/master/add-on/templates.sh#L3). Release process at FirePress ([blog post](https://firepress.org/en/software-and-ghost-updates/)). Based on [keep a changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [semantic versioning](https://semver.org/spec/v2.0.0.html).
-
-### Status options
-
-- ### ⚡️ Updates
-- ### 🚀 New feat.
-- ### 🐛 Fix bug
-- ### 🛑 Removed
-- ### 🔑 Security
+Status template:
+| ⚡️ Updates | 🚀 Added | ⚠️ Changed |
+🐛 Fixed | 🛑 Removed | 🔑 Security |
+🙈 Oops | 🎨 Design | 🎉 happy | 🙌 blessed
 
 # Releases
 
 ## 0.2.58 (2020-02-16)
-### ⚡️ Updates
-- [8aefbd8](https://github.com/pascalandy/dummy/commit/8aefbd8) init chap 39
-- [1403adf](https://github.com/pascalandy/dummy/commit/1403adf) UPDATE changelog template
-- [30d660e](https://github.com/pascalandy/dummy/commit/30d660e) Update dummy to version 0.2.58 /Dockerfile
+### 🚀 Added
+- [8aefbd8](https://github.com/pascalandy/dummy/commit/8aefbd8) ADD init chap 39
 - [8daf51a](https://github.com/pascalandy/dummy/commit/8daf51a) ADD chap 38
+
+### ⚡️ Updates
+- [1403adf](https://github.com/pascalandy/dummy/commit/1403adf) UPDATE changelog template
+- [30d660e](https://github.com/pascalandy/dummy/commit/30d660e) UPDATE dummy to version 0.2.58 /Dockerfile
 - [e3dc7e1](https://github.com/pascalandy/dummy/commit/e3dc7e1) FIX typo
 
 ## 0.2.57 (2020-02-15)
