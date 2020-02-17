@@ -7,6 +7,10 @@ Status template:
 
 # Releases
 
+## 0.2.62 (2020-02-17)
+### ⚡️ Updates
+- [8075c24](https://github.com/pascalandy/dummy/commit/8075c24) UPDATE README & LICENSE + REMOVE chap 36 + ADD chap 40
+
 ## 0.2.61 (2020-02-16)
 ### ⚡️ Updates
 - [b22022a](https://github.com/pascalandy/dummy/commit/b22022a) UPDATE chap 39 + REMOVE chap 35
