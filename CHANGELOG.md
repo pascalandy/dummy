@@ -7,6 +7,10 @@ Status template:
 
 # Releases
 
+## 0.2.60 (2020-02-16)
+### ⚡️ Updates
+- [64925c8](https://github.com/pascalandy/dummy/commit/64925c8) 0.2.60
+
 ## 0.2.59 (2020-02-16)
 ### ⚡️ Updates
 - [40e4a69](https://github.com/pascalandy/dummy/commit/40e4a69) Update dummy to version 0.2.59 /Dockerfile
