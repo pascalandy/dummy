@@ -7,6 +7,13 @@ Status template:
 
 # Releases
 
+## 0.2.67 (2020-02-17)
+### ⚡️ Updates
+- [23e484e](https://github.com/pascalandy/dummy/commit/23e484e) REMOVE chap 38
+
+### 🔍 Compare
+See differences with previous version: [0.2.66 <> 0.2.67](https://github.com/pascalandy/dummy/compare/0.2.66...0.2.67)
+
 ## 0.2.66 (2020-02-17)
 ### ⚡️ Updates
 - [0a5e987](https://github.com/pascalandy/dummy/commit/0a5e987) Update dummy to version 0.2.66 /Dockerfile
