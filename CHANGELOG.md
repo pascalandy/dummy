@@ -7,6 +7,13 @@ Status template:
 
 # Releases
 
+## 0.3.0 (2020-02-18)
+### ⚡️ Updates
+- [df58f0b](https://github.com/pascalandy/dummy/commit/df58f0b) ADD Pascal's section
+
+### 🔍 Compare
+- ... with previous release: [0.2.70 <> 0.3.0](https://github.com/pascalandy/dummy/compare/0.2.70...0.3.0)
+
 ## 0.2.70 (2020-02-18)
 ### ⚡️ Updates
 - [3c1ea11](https://github.com/pascalandy/dummy/commit/3c1ea11) ADD chap 43, REMOVE chap 40
