@@ -3,7 +3,7 @@
 ###################################
 
 ARG VERSION="0.3.0"
-ARG RELEASE="0.3.0"
+ARG RELEASE="0.3.0-r1"
 ARG APP_NAME="dummy"
 ARG GITHUB_USER="pascalandy"
 
