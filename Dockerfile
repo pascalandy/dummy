@@ -1,6 +1,7 @@
 ###################################
 # REQUIRED BY bashLaVa https://github.com/firepress-org/bashlava 
 ###################################
+
 ARG VERSION="0.3.0"
 ARG RELEASE="0.3.0"
 ARG APP_NAME="dummy"
