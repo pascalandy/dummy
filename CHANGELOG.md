@@ -7,6 +7,15 @@ Status template:
 
 # Releases
 
+## 0.3.0-r1 (2020-02-26)
+### ⚡️ Updates
+- [300480b](https://github.com/pascalandy/dummy/commit/300480b) Update dummy to version 0.3.0-r1 /Dockerfile
+- [63300bc](https://github.com/pascalandy/dummy/commit/63300bc) FIX dockerfile
+- [2351ecf](https://github.com/pascalandy/dummy/commit/2351ecf) ADD release flag
+
+### 🔍 Compare
+- ... with previous release: [0.3.0 <> 0.3.0-r1](https://github.com/pascalandy/dummy/compare/0.3.0...0.3.0-r1)
+
 ## 0.3.0 (2020-02-18)
 ### ⚡️ Updates
 - [df58f0b](https://github.com/pascalandy/dummy/commit/df58f0b) ADD Pascal's section
