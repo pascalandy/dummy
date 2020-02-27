@@ -7,6 +7,13 @@ Status template:
 
 # Releases
 
+## 0.3.1-r1 (2020-02-26)
+### ⚡️ Updates
+- [2bc5d4a](https://github.com/pascalandy/dummy/commit/2bc5d4a) Update dummy to version 0.3.1-r1 /Dockerfile
+
+### 🔍 Compare
+- ... with previous release: [0.3.1 <> 0.3.1-r1](https://github.com/pascalandy/dummy/compare/0.3.1...0.3.1-r1)
+
 ## 0.3.1 (2020-02-26)
 ### ⚡️ Updates
 - [607cf93](https://github.com/pascalandy/dummy/commit/607cf93) Update dummy to version 0.3.1 /Dockerfile
