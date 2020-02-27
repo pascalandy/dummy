@@ -9,6 +9,13 @@ Status template:
 
 ## 0.3.1-rc3 (2020-02-26)
 ### ⚡️ Updates
+- 
+
+### 🔍 Compare
+- ... with previous release: [0.3.1-rc3 <> 0.3.1-rc3](https://github.com/pascalandy/dummy/compare/0.3.1-rc3...0.3.1-rc3)
+
+## 0.3.1-rc3 (2020-02-26)
+### ⚡️ Updates
 - [b499e60](https://github.com/pascalandy/dummy/commit/b499e60) Update dummy to version 0.3.1-rc3 /Dockerfile
 
 ### 🔍 Compare
