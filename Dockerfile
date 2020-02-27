@@ -15,9 +15,9 @@ ARG MY_LOCAL_PATH="/usr/local/bin"
 
 # Does this app accept release candidates (ie. 3.5.1-rc1) in the _version? By default = false
 # When buidling docker images it better to not have rc in the version as breaks the pattern.
-# When not working with a docker build, feel free to put this flag as true.
-# default value is false
-ARG VERSION_WITH_RELEASE_CANDIDAT="false"
+# When not working with a docker build, feel free to put this flag as 'true'.
+# default value is 'false'
+ARG VERSION_WITH_RELEASE_CANDIDAT="true"
 
 ###################################
 # Start you Dockerfile from here (if any)
