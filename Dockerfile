@@ -3,8 +3,8 @@
 ###################################
 
 ARG APP_NAME="dummy"
-ARG VERSION="0.3.1-r2"
-ARG RELEASE="0.3.1-r2"
+ARG VERSION="0.3.1-rc3"
+ARG RELEASE="0.3.1-rc3"
 ARG GITHUB_USER="pascalandy"
 
 # Default var & path. Customize if need. Usefull if you want
